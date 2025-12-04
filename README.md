@@ -7,10 +7,6 @@
 
 > A fully functional **Kanban-style task management application** built with **Java Swing** – perfect for software development students (POE / PTA), portfolios, or small team project tracking.
 
-<img src="https://via.placeholder.com/1200x600/00C4B4/ffffff?text=EasyKanban+Task+Dashboard+(Teal+Theme)" alt="EasyKanban Preview" style="border-radius:12px; box-shadow: 0 10px 30px rgba(0,0,0,0.3);"/>
-
-*(Add your own screenshot later – recommended!)*
-
 ---
 
 ## ✨ Features
@@ -39,7 +35,7 @@
 ### Run the App
 
 ```bash
-git clone https://github.com/yourusername/EasyKanban.git
-cd EasyKanban
+git clone https://github.com/St10245564/JavaApplication.git
+cd JavaApplication
 javac *.java
 java Main
